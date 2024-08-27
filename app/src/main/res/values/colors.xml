@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cinzaClaro">#8A8A8A</color>
-    <color name="trasparente">#0FFFFFFF</color>
+    <color name="transparente">#0FFFFFFF</color>
+    <color name="transparenteDois">#85000000</color>
     <color name="vermelho">#FF0000</color>
 </resources>
